@@ -123,6 +123,3 @@ Para compilar y ejecutar este proyecto, se necesita:
 
 8. Sincronizar el proyecto con los archivos de **Gradle**.
 
----
-
-✅ Este README cumple con los requisitos de la tarea, documentando el trabajo de manera clara y profesional.
