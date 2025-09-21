@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DistribuidoraApp</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingrese_su_correo_electr_nico">Ingrese su correo electrónico</string>
+    <string name="ingrese_la_contrase_a">Ingrese la contraseña</string>
+    <string name="ingrese_su_clave">Ingrese su clave</string>
+</resources>
